@@ -6,3 +6,4 @@ walls
 
 caverns
 
+tropical plants
