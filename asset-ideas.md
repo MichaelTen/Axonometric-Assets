@@ -1,0 +1,8 @@
+snow
+
+trees
+
+walls
+
+caverns
+
